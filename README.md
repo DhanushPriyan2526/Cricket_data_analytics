@@ -34,11 +34,11 @@ The Fantasy Cricket Team Selector with Power BI is a dynamic data analytics proj
 ### Owner
 This project is done by Dhanush Priyan and the github link is "https://github.com/DhanushPriyan2526"
 
-###Contributing
-Contributions to enhance the Power BI solution, add new visualizations, or improve existing features are welcome. Follow the contribution guidelines for details on how to contribute.
+##Contributing
+-Contributions to enhance the Power BI solution, add new visualizations, or improve existing features are welcome. Follow the contribution guidelines for details on how to contribute.
 
 Acknowledgments
-Special thanks to espncricketinfo and codebasics  for providing the World Cup data used in this Power BI solution.
+-Special thanks to espncricketinfo and codebasics  for providing the World Cup data used in this Power BI solution.
 
 
 
