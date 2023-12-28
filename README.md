@@ -20,19 +20,19 @@ The Fantasy Cricket Team Selector with Power BI is a dynamic data analytics proj
 
 ## Getting Started
 
-1.Download all files and unzip it.
-2.Use the "Data_preprocessing.ipynb" for data preprocessing and csv conversion.
-3.Create the measures using "DAx measures and calculated fields" in power bi.
-4.Use "project.pbix" as reference to create dashboard.
+- 1.Download all files and unzip it.
+- 2.Use the "Data_preprocessing.ipynb" for data preprocessing and csv conversion.
+- 3.Create the measures using "DAx measures and calculated fields" in power bi.
+- 4.Use "project.pbix" as reference to create dashboard.
 
 ### Prerequisites
 
-1.Jupyter Notebook.
-2.Power bi.
-3.Excel(optional).
+- 1.Jupyter Notebook.
+- 2.Power bi.
+- 3.Excel(optional).
 
 ### Owner
-This project is done by Dhanush Priyan and the github link is ""
+This project is done by Dhanush Priyan and the github link is "https://github.com/DhanushPriyan2526"
 
 ###Contributing
 Contributions to enhance the Power BI solution, add new visualizations, or improve existing features are welcome. Follow the contribution guidelines for details on how to contribute.
